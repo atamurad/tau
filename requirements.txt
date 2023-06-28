@@ -1,0 +1,6 @@
+bezier==2021.2.12
+scikit-image==0.21.0
+shapely==2.0.1
+scipy==1.10.1
+pillow==9.5.0
+freetype-py==2.4.0
